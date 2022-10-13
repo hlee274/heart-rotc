@@ -1,3 +1,5 @@
-# heart-rotc
+# Firebase Web Codelab - Start code
 
-This program connects users who need over the counter medication to people who are able to provide it. This is done by matching users and providers within similar areas.
+This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+
+If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
